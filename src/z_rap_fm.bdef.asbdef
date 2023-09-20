@@ -1,0 +1,9 @@
+unmanaged implementation in class zbp_rap_FM unique;
+
+define behavior for z_rap_fm
+
+{
+
+create;
+
+}

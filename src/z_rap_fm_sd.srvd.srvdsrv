@@ -1,0 +1,4 @@
+@EndUserText.label: 'test fm sd'
+define service Z_rap_FM_SD {
+  expose Z_RAP_FM;
+}

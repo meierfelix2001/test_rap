@@ -1,0 +1,4 @@
+@EndUserText.label: 'rap test'
+define service Zui_rap_FM {
+  expose Z_RAP_FM;
+}
